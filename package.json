@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Keisuke-Awa/webpack_tutorial/issues"
   },
-  "homepage": "https://github.com/Keisuke-Awa/webpack_tutorial#readme"
+  "homepage": "https://github.com/Keisuke-Awa/webpack_tutorial#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
 }
